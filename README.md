@@ -1,4 +1,4 @@
-# Assignment by Digital Logic Technology
+# Assignment by Deeplogic Tech
 
 This application will return the latest 6 stories on Time.com using a REST API built with Spring Boot.
 
